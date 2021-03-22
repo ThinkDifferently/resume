@@ -1,0 +1,9 @@
+------Addition to the begin------
+DoublyLinkedList.add(): 298 ms
+LinkedList.add(): 324 ms
+------Addition to the middle-----
+DoublyLinkedList.add(): 1087  ms
+LinkedList.add(): 560 ms
+------Addition to the end-----
+DoublyLinkedList.add(): 2226 ms
+LinkedList.add(): 2417 ms

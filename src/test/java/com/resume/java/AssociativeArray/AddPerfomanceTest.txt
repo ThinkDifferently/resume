@@ -1,0 +1,9 @@
+------Add------
+HashMap: 2581 ms
+AssociativeArray: 2944 ms
+------Remove-----
+HashMap: 503 ms
+AssociativeArray: 625 ms
+------Get-----
+HashMap: 126 ms
+AssociativeArray: 95 ms

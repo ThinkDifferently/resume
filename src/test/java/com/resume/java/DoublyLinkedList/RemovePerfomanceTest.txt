@@ -1,0 +1,9 @@
+-----Remove from begin------
+DoublyLinkedList.add(): 189 ms
+LinkedList.add(): 197 ms
+------Remove from middle-----
+DoublyLinkedList.add(): 1822 ms
+LinkedList.add(): 1854 ms
+------Remove from end-----
+DoublyLinkedList.add(): 124 ms
+LinkedList.add(): 156 ms
